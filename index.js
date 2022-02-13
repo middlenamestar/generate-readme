@@ -1,7 +1,5 @@
-// TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-// const gmd = require('./generateMarkdown.js');
 
 const generateMD = ({title, description, installation, repo, alt, img_filepath, usage, contributing, tests, credits, github_username, email, license, fullname}) =>
 `# ${title}
@@ -50,29 +48,10 @@ Any questions, feedback, or issues, please feel free to connect with me on [gith
 
 ## License
 
-${license} License
-
 Copyright (c) 2022 ${fullname}
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Licensed under the ${license} license.`;
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.`;
-
-// TODO: Create an array of questions for user input
 inquirer
   .prompt([
     {
@@ -150,7 +129,7 @@ inquirer
   .then((answers) =>{
     // console.log();
     const markdown = generateMD(answers);
-    fs.writeFile('sample.md', markdown, 'utf8', (err) =>
+    fs.writeFile('sample2.md', markdown, 'utf8', (err) =>
         err ? console.log(err) : console.log('success :)')
     );
   });
@@ -159,18 +138,7 @@ inquirer
 
 // TODO: Create a function to write README file
 // function writeToFile(fileName, data) {}
-
 // TODO: Create a function to initialize app
 // function init() {}
-
 // Function call to initialize app
 // init();
-
-// TITLE, DESCRIPTION, TABLE OF CONTENTS, INSTALLATION, USAGE, CONTRIBUTING, TESTS, QUESTIONS, LICENSE.
-
-// list: license.     badge is added near top of README, and a notice is added to the License section that explains which license.
-
-// input: github username. "what is your github username?" added to Questions section, with link to github.
-
-// input: email. added to Questions section, with instructions on how to reach me with additional questions.
-// WHEN I click on the links in the Table of Contents THEN I am taken to the corresponding section of the README.
