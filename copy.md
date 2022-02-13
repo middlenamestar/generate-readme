@@ -2,7 +2,7 @@
 
 ![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-a really important part of puerto rican/us relations in this book goes into another thing i didn't know, which was the discovery of hookworm at the turn of the 20th century as the cause of what was considered to be a pervasive, endemic anemia afflicting the poor across the us south and puerto rico.
+something the book has really made clear to me already is that the fundamental conflict at the heart of the us political project between the class of southern-based land-owning whites wanting “a nation for the white race” based around domestic capitalism and self sufficiency and the ideals of an independent Republic where if you’re a white guy you can literally do whatever you want
 
 ## Table of Contents
 
@@ -16,24 +16,24 @@ a really important part of puerto rican/us relations in this book goes into anot
 
 ## Installation
 
-at that time, the poorest workers in both regions did not wear/own shoes and struggled with unsanitary living/working conditions. this coupled with the hot, wet climates of the south and puerto rico lead to a situation where at many as 9/10 puerto rican jíbaros (peasants) had chronic hookworm disease. the us doctor who discovered this, bailey k ashford, then developed a campaign to try to eradicate this disease in puerto rico using medications as well as public health measures. the puerto rican civil government (run by white anglo-americans from the mainland) only gave ashford and his team $5000 to do this which was not even close to enough, and he spent something like a decade treating thousands of people with hookworm.
+VS the more northern land-owning whites wanting to do their own version of the british or roman empires spanning the globe based around a meritocratic and cosmopolitan oligarchy is both as old as the country and still the core issue in american politics. how much of us history is these two groups fighting each other but when faced with anything that threatens their shared, base ideologies (white supremacy and its father, capitalism) they work together and how whenever you hear the words ‘partisan’ or 'bipartisan’ used in the us it’s essentially this fundamental conflict at play however obscured by language
 This application is deployed with GitHub Pages [here](https://middlenamestar.github.io/portfolio).
 
 ## Usage
 
-but due to underfunding and poor working conditions the whito puerto rican plantation landowners refused to improve, as well as their campaign lobbying against these public health measures and blocking the funding, ashford and the others were unable to keep treating people and those who were successfully treated just kept getting hookworm over and over and by 1930 the levels of hookworm disease were once again as bad as they'd been in 1900.
+like whether in the form of the present republican and democratic parties or in the form of us congress and senate in the 1890s arguing about whether it was best to annex and settle aka old school imperialism or do economic imperialism thru allowing local regional sovereignty while taking ownership of their economic system aka the kind of imperialism most common now, these arguments regarding the american perpetual state’s identity crisis and what they think they should do with other regions comes down to “is this region sufficiently settled by whites and perceived to be assimilated into anglo-american culture”
 
 ## Contributing
 
-in contrast, ashford's mentor in the us south used his discovery to petition for a campaign to eradicate hookworm among the white poor of the south.
+and if yes, then they annex, if no, they take economic control while allowing the country to continue believing it is an independent sovereign nation. this was their thought process during manifest destiny and westward expansion, their thought process as they began expanding into what is now known as the greater united states or the us empire in the 1890s,
 
 ## Tests
 
-his campaign received $1 million in funding from rockefeller and the support of the local state governments. this campaign eventually stretched to encompass poor black communities and by the 1970s hookworm was basically eradicated in the south. the us government declared by the 1980s that hookworm had been eradicated in the us and there was no more local transmission.
+and it remains their thought process in the present, the way these things come into action in a practical sense shift and change but us foreign policy really still comes down to this at a base level
 
 ## Credits
 
-at the same time, hookworm remained a problem for the working poor of puerto rico, a united states territory.
+i’ve been listening to an audiobook copy of ‘how to hide an empire: a history of the greater united states’ by daniel immerwahr and i’m about a 1/3rd of the way through it and so far it’s been really illuminating.
 
 ## Contact
 
@@ -41,6 +41,6 @@ Any questions and feedback, please feel free to connect with me on [github](http
 
 ## License
 
-Copyright (c) 2022 priscilla ma.
+Copyright (c) 2022 Priscilla Ma.
 
 Licensed under the MIT license.
