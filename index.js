@@ -62,47 +62,47 @@ inquirer
     {
         type: 'input',
         name: 'description',
-        message: 'tell me a little about your project! describe it :D',
+        message: 'awesome! now, tell me a little about your project. describe it up!',
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'explain any installation instructions!:',
+        message: 'any installation instructions?',
     },
     {
         type: 'input',
         name: 'repo',
-        message: 'what is the name of your repo so we can link your deployment? please type the repo exactly, with any included dashes. (don\'t worry we\'ll be asking for your github username in just a few!)',
+        message: 'what is the name of your repository, so that we can link to your deployment page? pls type the repo name exactly, with any included dashes. (don\'t worry, we\'ll be asking for your github username in just a few!)',
     },
     {
         type: 'input',
         name: 'alt',
-        message: 'include at least one image of your application! trust me. let\'s start with the alt text. write the alt text about your image here: in the next question, we\'ll ask for the file path.',
+        message: 'include at least one image of your application!!! trust me. let\'s start with the alt text. write the alt about your image here. in the next question, we\'ll ask for the file path.',
     },
     {
         type: 'input',
         name: 'img_filepath',
-        message: 'create an assets/images folder and upload your screenshot/image to the folder and name the image. type the name of the image here including any .png, and we\'ll pop it into the url, no worries.',
+        message: 'create an assets/images folder if you haven\'t already and upload your image to the folder. name the image and provide the name here. include the .png, .jpeg, etc. we\'ll pop it into the file path, voila.',
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'now describe a little on how to use your application:',
+        message: 'now, describe a little about how to use your application. what are some usage features?',
     },
     {
         type: 'input',
         name: 'contributing',
-        message: 'how can others contribute to your application? write up some guidelines:',
+        message: 'how can others contribute to your application? write up some guidelines.',
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'write some steps on how to test your application:',
+        message: 'what would tests for your application look like?',
     },
     {
         type: 'input',
         name: 'credits',
-        message: 'shoutout! give credits here:',
+        message: 'shoutout! give some credits here.',
     },
     {
         type: 'input',
@@ -123,7 +123,7 @@ inquirer
     {
         type: 'input',
         name: 'fullname',
-        message: 'please enter your full name as part of the license, spaces included, capitalization and all (if you\'d like).',
+        message: 'lastly, please enter your full name as part of the license! bye, this was fun!',
     },
   ])
   .then((answers) =>{
