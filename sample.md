@@ -2,7 +2,7 @@
 
 ![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-d
+Butterflies and zebras, and moonbeams, and fairytales. That's all she ever thinks about.
 
 ## Table of Contents
 
@@ -16,27 +16,27 @@ d
 
 ## Installation
 
-No installation required.
+This command-line application will require node, for you to run npm init, and install Inquirer by running npm i inquirer. If the application were deployed, the link would be found in the next line.
 
-You can find the application deployed through GitHub Pages, [here!](https://middlenamestar.github.io/generate-readme)
+You can find the application deployed through GitHub Pages, [here!](https://middlenamestar.github.io/FAKEREPO)
 
 ## Usage
 
-![alt](assets/images/url)
+![star butter pancake](assets/images/pancake.jpeg)
 
-How to use
+Look at the pancake! Answer some questions in node.
 
 ## Contributing
 
-Contribution guidelines
+Contribute any way you want, community is everything :)
 
 ## Tests
 
-How to test
+Test test test testing! How to test 1. Blank 2. Blank 3. Blank
 
 ## Credits
 
-Credits given
+Credits rolling. Credit tumblr for the pancake photo!
 
 ## Feedback
 
@@ -46,7 +46,7 @@ Any questions, feedback, or issues, please feel free to connect with me on [gith
 
 MIT License
 
-Copyright (c) 2022 Priscilla Ma
+Copyright (c) 2022 stardust productions.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
