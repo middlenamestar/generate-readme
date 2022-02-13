@@ -129,7 +129,7 @@ inquirer
   .then((answers) =>{
     // console.log();
     const markdown = generateMD(answers);
-    fs.writeFile('sample2.md', markdown, 'utf8', (err) =>
+    fs.writeFile('README.md', markdown, 'utf8', (err) =>
         err ? console.log(err) : console.log('success :)')
     );
   });
